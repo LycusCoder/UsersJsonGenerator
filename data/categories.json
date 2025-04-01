@@ -1,0 +1,13 @@
+[
+    { "name": "electronics", "icon": "/assets/icons/electronics.png" },
+    { "name": "sports", "icon": "/assets/icons/sports.png" },
+    { "name": "books", "icon": "/assets/icons/book.png" },
+    { "name": "clothing", "icon": "/assets/icons/clothing.png" },
+    { "name": "fashion", "icon": "/assets/icons/fashion.png" },
+    { "name": "food", "icon": "/assets/icons/food.png" },
+    { "name": "home_appliances", "icon": "/assets/icons/home_appliances.png" },
+    { "name": "health", "icon": "/assets/icons/health.png" },
+    { "name": "automotive", "icon": "/assets/icons/automotive.png" },
+    { "name": "cultural", "icon": "/assets/icons/cultural.png" },
+    { "name": "snacks", "icon": "/assets/icons/snacks.png" }
+  ]
