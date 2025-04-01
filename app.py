@@ -25,7 +25,7 @@ def generate_name(name_type):
 def generate_user(user_id, name_type):
     name = generate_name(name_type)
     username = f"{name.split()[0].lower()}{user_id}"
-    email = f"{username}@example.com"
+    email = f"{username}@nourivex.tech"
     
     return {
         "id": user_id,
