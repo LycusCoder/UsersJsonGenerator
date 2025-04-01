@@ -42,5 +42,6 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 
 ---
 
-![Preview](https://users-json-generator.vercel.app)
+## Demo
+[![Preview](https://users-json-generator.vercel.app)](https://users-json-generator.vercel.app)
 _Demo tampilan antarmuka web generator_
